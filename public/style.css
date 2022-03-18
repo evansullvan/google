@@ -3,7 +3,7 @@
 body {
   font-family: helvetica, arial, sans-serif;
   margin: 2em;
-  background-color: white;
+  background-color: #1c1c1c;
   text-align: center;
 }
 
@@ -11,10 +11,22 @@ body {
   padding-top: 150px;
   text-align: center;
   font-size: 100px;
+  color: rgb(245, 245, 245);
 }
 
-.googleSearchbar {
+.gcse-searchbox {
   height: 44px;
   width: 541px;
   border-radius: 50px;
+  padding: 1px 44px 1px 52px;
 }
+
+.yellow{
+  color: #FFD500;
+}
+
+.green{
+  color: #00c711;
+}
+
+
