@@ -1,0 +1,18 @@
+{
+  "playlistCollection": [
+    {
+      "id": "4228d854-ff45-496a-aeb8-a0b42d099cd7",
+      "title": "New playlist",
+      "duration": "25",
+      "songs": [
+        {
+          "id": "c7704e86-b478-43b8-aa68-8cae78056cd2",
+          "title": "New song",
+          "artist": "Artist",
+          "genre": "Classical",
+          "duration": "5"
+        }
+      ]
+    }
+  ]
+}

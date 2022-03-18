@@ -1,3 +1,5 @@
-# Get Started!
+Lab 7
+=================
 
-Add files and start typing 🎉
+- Added update song features
+- Added playlist app statistics
