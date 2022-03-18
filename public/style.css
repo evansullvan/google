@@ -3,18 +3,18 @@
 body {
   font-family: helvetica, arial, sans-serif;
   margin: 2em;
-  background-color: lightgrey;
+  background-color: white;
+  text-align: center;
 }
 
-h1 {
-  font-style: italic;
-  color: #373fff;
+.googleLogo{
+  padding-top: 150px;
+  text-align: center;
+  font-size: 100px;
 }
 
-#readmore {
-  display: none;
-}
-
-#welcomeuser {
-  display: none;
+.googleSearchbar {
+  height: 44px;
+  width: 541px;
+  border-radius: 50px;
 }
